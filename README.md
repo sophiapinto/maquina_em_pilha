@@ -1,6 +1,6 @@
-Universidade Federal do Maranhão - UFMA
+###Universidade Federal do Maranhão - UFMA
 
-DISCENTES:
+###DISCENTES:
 2019050673 - IRLANDA HILDENEY OLIVEIRA TEIXEIRA
 2019060482 - LIDIA RAYANE RODRIGUES GRANGEIRO
 2019050735 - SARAH SOPHIA DA SILVA PINTO
@@ -8,8 +8,7 @@ DISCENTES:
 2019056873 - GUSTAVO ANTONIO SILVA ROCHA
 2019038721 - CARLOS DANIEL DOS SANTOS SILVA
 
-Grupo 3
+###Grupo 3
  
-Laboratório - Um REPL para uma máquina baseada em pilha (segunda unidade).
+###Laboratório - Um REPL para uma máquina baseada em pilha (segunda unidade).
 Implementar um interpretador para uma máquina baseada em pilha.
-*
